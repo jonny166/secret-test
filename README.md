@@ -1,6 +1,7 @@
 # secret-test
 
 For a secret function, verify that secret(x) + secret(y) == secret(x+y) for all combinations of primes &lt; n
+This program makes the assumption that n is small enough that the list of primes less than it will fit in a list in memory.
 
 ## Usage
 ```python
