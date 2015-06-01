@@ -38,3 +38,6 @@ You can run the provided test file to verify it is working properly.
 > 
 > OK
 
+## Language Choice
+
+Python is a performant language that is widely used in the backend of many systems.  Its syntax is easy to understand.  In addition, my most recent coding experience has been with Python, making it the most expedient choice for a representative sample. 
